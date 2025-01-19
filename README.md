@@ -6,7 +6,7 @@ This is a simple interactive chatbot written in Python. The chatbot engages user
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/interactive-chatbot.git
+git clone https://github.com/TheCodeSculptor-cmd/Chat_Bot.git
 2. Navigate to the project directory:
 cd interactive-chatbot
 3. Ensure you have Python 3.x installed on your machine.
